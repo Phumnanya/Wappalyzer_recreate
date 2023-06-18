@@ -6,7 +6,7 @@ body {
 	color: white;
 }
 .logo img {
-	width: 3vw;
+	width: 5%;
 }
 .topbg {
 	background: indigo;
@@ -29,13 +29,13 @@ li a {
 	color: white;
 	padding: 0.5px;
 }
-@media (min-width: 769px) { li a { margin:0 5em 0 5em;} }
+@media (min-width: 769px) { li a { margin:0 5% 0 5em;} }
 @media (max-width: 500px) {ul {display: none;}}
 
 #drop-icon {
 	display: inline-block;
 	position: relative;
-	left: 18em;
+	left: 60%;
 	top: 1em;
 	color: white;
 }
@@ -80,11 +80,15 @@ li a {
 }
 form {
 	text-align: center;
+	background-color: white;
+	color: white;
+	width: 40%;
+	margin: 3% auto 0 auto;
 }
 input[type=text] {
-	width: 20em;
-	padding: 15px;
-	margin-top: 3%;
+	width: 100%;
+	padding: 3%;
+	color: #171717;
 }
 .body {
 	width: 100%;
