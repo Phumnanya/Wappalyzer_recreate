@@ -85,7 +85,7 @@ form {
 	width: 50%;
 	margin: 3% auto 0 auto;
 }
-input[type=text] {
+input[type=search] {
 	width: 100%;
 	padding: 3%;
 	color: #171717;
